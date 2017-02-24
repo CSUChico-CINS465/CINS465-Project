@@ -20,7 +20,7 @@ I will only be supporting development with the technologies discussed in class:
 
 You will be graded on the following:
 
-* Proposal (Due 10/16/16)
+* Proposal (Due 3/19/17)
   * The proposal should give a basic idea for your project
     * If you want to work in a group of two you will need to come discuss with me prior to the proposal date and present a project with a compelling need for more than one student working on it. If approved you will only need to turn in one proposal for the group.
   * Proposal should offer a simple idea of what pages your site will provide the user(s)
