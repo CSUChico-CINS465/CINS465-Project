@@ -5,8 +5,10 @@ For the project in this course you have a website that does the following:
 * Uses data in some way
   * Needs to present this data to the user
   * Can get new data from the user or alternative source
-  * If data presented to the user has changed they should get updated version without refreshing page
+  * Ideally if data presented to the user has changed they should get updated version without refreshing page
 * Uses templates
+* Have a minimum complexity to involve learning something beyond what we cover in class
+  * Can not implement the functionality of a blog and/or forum only. 
 * Be hosted on the cloud
   * I will be providing you $50 of Google Compute Cloud Credit for this purpose
 
