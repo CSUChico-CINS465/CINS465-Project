@@ -30,6 +30,7 @@ You will be graded on the following:
   * Goals for the project
     * Can think of these as components of your web project you hope to have working by the end of the semester.
     * You should also include stretch goals or goals you have for the project if time allows or that you would like to add possibly after the semester. 
+  * Submitting Proposal: Please email me a pdf or word document with the above details as different sections. You can submit your proposal up until the day it is due and if I can get you feedback you will lose no points. Having issues with your proposal after the due date will lose points. 
 * Check-In Meeting
   * Partway through the semester you/your group will be required to meet with me to demo your current working state of your project. The purpose of this meeting is to make sure you are making progress.
 * Project Presentation
@@ -39,5 +40,6 @@ You will be graded on the following:
     * If it meets your goals
     * How easy it is for me to use
     * If it meets the requirements
+  * Submit your project through a github repo, make sure I'm a collaborator if it's not a repo I created for you.
 * Feedback
   * You'll get a Google Survey after the semester ends that you will need to fill out, this will include pair feedback if you were approved to work in a group of two. It also will ask for feedback on the project, class, and things you think should be clarified, improved, etc for future semesters. 
