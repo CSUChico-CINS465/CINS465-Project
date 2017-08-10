@@ -8,29 +8,31 @@ For the project in this course you have a website that does the following:
   * Ideally if data presented to the user has changed they should get updated version without refreshing page
 * Uses templates
 * Have a minimum complexity to involve learning something beyond what we cover in class
-  * Can not implement the functionality of a blog and/or forum only. 
+  * Can not implement the functionality of a blog, twitter, and/or forum only.
+* Should be interesting or useful.
 * Be hosted on the cloud
   * I will be providing you $50 of Google Compute Cloud Credit for this purpose
-
+  * There is no requirement you host on Google's cloud, but as there is no cost to you I recommend it
+  
 I will only be supporting development with the technologies discussed in class:
 
-* Django 1.10
-* React JS
+* Django 1.11
 * Foundations 6
 
 You will be graded on the following:
 
-* Proposal (Due 3/19/17)
+* Proposal (Due 9/22/17)
   * The proposal should give a basic idea for your project
-    * If you want to work in a group of two you will need to come discuss with me prior to the proposal date and present a project with a compelling need for more than one student working on it. If approved you will only need to turn in one proposal for the group.
+    * It is highly recommended you work in a group of two with one member focusing on front-end/JS/stylization and the other focusing on data, RESTful APIs, and backend programming. This is not a requirement, it's worth noting the quality of project proposed be it a team or single member proposal is the same; however, the expectation of the quality and complexity of the final project for a team of two is slightly higher. 
   * Proposal should offer a simple idea of what pages your site will provide the user(s)
     * Can be hand drawn, but expect you to have given some thought for how people will interact with your site. 
-  * If you are were approved to work as a group of two, you will need to break out the tasks for each member
-  * A timeline for getting aspects of the project setup, working, developed, etc. 
+  * If you work as a group of two, you will need to break out the tasks for each member
+  * A timeline for getting aspects of the project setup, working, developed, etc.
+    * For team projects, you should set milestones for each member to complete along the way. Make sure to include time to test each component. 
   * Goals for the project
     * Can think of these as components of your web project you hope to have working by the end of the semester.
     * You should also include stretch goals or goals you have for the project if time allows or that you would like to add possibly after the semester. 
-  * Submitting Proposal: Please email me a pdf or word document with the above details as different sections. You can submit your proposal up until the day it is due and if I can get you feedback you will lose no points. Having issues with your proposal after the due date will lose points. 
+  * Submitting Proposal: Please email me a pdf with the above details as different sections. You can submit your proposal up until the day before it is due and if I can get you feedback you will lose no points. Having issues with your proposal after the due date will lose points. 
 * Check-In Meeting
   * Partway through the semester you/your group will be required to meet with me to demo your current working state of your project. The purpose of this meeting is to make sure you are making progress.
 * Project Presentation
@@ -39,7 +41,13 @@ You will be graded on the following:
   * Your project will be graded on the following:
     * If it meets your goals
     * How easy it is for me to use
+    * How much I feel you learned along the way
     * If it meets the requirements
+    * If you worked as a team there will be team member feedback; however, as you need to use GIT for the project & submission... if you aren't contributing it will show up in the git history. 
   * Submit your project through a github repo, make sure I'm a collaborator if it's not a repo I created for you.
 * Feedback
-  * You'll get a Google Survey after the semester ends that you will need to fill out, this will include pair feedback if you were approved to work in a group of two. It also will ask for feedback on the project, class, and things you think should be clarified, improved, etc for future semesters. 
+  * You'll get a Google Survey after the semester ends that you will need to fill out, this will include the team member feedback if you worked in a group of two. It also will ask for feedback on the project, class, and things you think should be clarified, improved, etc for future semesters. 
+  
+## Grading Caveat
+
+Going above and beyond these requirements or using technology far outside the scope of what I've covered in the semester but coming up short on your project goals in the end, can still lead to a good grade. I weigh ambition and self interest in learning new things for this course heavily even if it means all your goals are not met. 
