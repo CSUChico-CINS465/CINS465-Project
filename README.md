@@ -21,7 +21,7 @@ I will only be supporting development with the technologies discussed in class:
 
 You will be graded on the following:
 
-* Proposal (Due 10/15/17)
+* Proposal (**Needs to have all of the following**)
   * The proposal should give a basic idea for your project
     * It is highly recommended you work in a group of two with one member focusing on front-end/JS/stylization and the other focusing on data, RESTful APIs, and backend programming. This is not a requirement, it's worth noting the quality of project proposed be it a team or single member proposal is the same; however, the expectation of the quality and complexity of the final project for a team of two is slightly higher. 
   * Proposal should offer a simple idea of what pages your site will provide the user(s)
