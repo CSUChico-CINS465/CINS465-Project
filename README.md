@@ -16,7 +16,7 @@ For the project in this course you have a website that does the following:
   
 I will only be supporting development with the technologies discussed in class:
 
-* Django 1.11
+* Django 2.0
 * Foundations 6
 
 You will be graded on the following:
