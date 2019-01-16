@@ -25,13 +25,15 @@ You will be graded on the following:
   * The proposal should give a basic idea for your project
     * It is highly recommended you work in a group of two with one member focusing on front-end/JS/stylization and the other focusing on data, RESTful APIs, and backend programming. This is not a requirement, it's worth noting the quality of project proposed be it a team or single member proposal is the same; however, the expectation of the quality and complexity of the final project for a team of two is slightly higher. 
   * Proposal should offer a simple idea of what pages your site will provide the user(s)
-    * Can be hand drawn, but expect you to have given some thought for how people will interact with your site. 
+    * Can be hand drawn, but expect you to have given some thought for how people will interact with your site.
+    * Should also diagram/discuss transitions between pages
   * If you work as a group of two, you will need to break out the tasks for each member
   * A timeline for getting aspects of the project setup, working, developed, etc.
     * For team projects, you should set milestones for each member to complete along the way. Make sure to include time to test each component. 
   * Goals for the project
     * Can think of these as components of your web project you hope to have working by the end of the semester.
     * You should also include stretch goals or goals you have for the project if time allows or that you would like to add possibly after the semester. 
+    * Should be a **list** of deliverables/goals
   * Submitting Proposal: Please email me a pdf with the above details as different sections. You can submit your proposal up until the day before it is due and if I can get you feedback you will lose no points. Having issues with your proposal after the due date will lose points. 
 * Check-In Meeting
   * Partway through the semester you/your group will be required to meet with me to demo your current working state of your project. The purpose of this meeting is to make sure you are making progress.
