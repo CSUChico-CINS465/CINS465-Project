@@ -37,6 +37,7 @@ You will be graded on the following:
   * Submitting Proposal: Please email me a pdf with the above details as different sections. You can submit your proposal up until the day before it is due and if I can get you feedback you will lose no points. Having issues with your proposal after the due date will lose points. 
 * Check-In Meeting
   * Partway through the semester you/your group will be required to meet with me to demo your current working state of your project. The purpose of this meeting is to make sure you are making progress.
+  * This will happen as a mid-point presentation or class lab days where you need to make sure to check in with me about where your project is during this time. 
 * Project Presentation
   * Near the end of the semester and likely the day of the final we will have presentations of your project, which you will be graded on how well you can present your project, what goals it had, what you have working at the time of the presentation, and technical problems you've run into along the way.
 * Project
