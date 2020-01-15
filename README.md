@@ -9,6 +9,8 @@ For the project in this course you have a website that does the following:
 * Uses templates
 * Have a minimum complexity to involve learning something beyond what we cover in class
   * Can not implement the functionality of a blog, twitter, and/or forum only.
+  * This minimum complexity is usually met by most students by using web sockets, usually in the form of a real time chat integrated into their project in some way. 
+  * This could also be met by more than a minimal use of Web Assembly as well. 
 * Should be interesting or useful.
 * Be hosted on the cloud
   * I will be providing you $50 of Google Compute Cloud Credit for this purpose
