@@ -30,6 +30,7 @@ I will only be supporting development with the technologies discussed in class:
    * Can be hand drawn, but expect you to have given some thought for how people will interact with your site.
    * Should also diagram/discuss transitions between pages
  * If you work as a group of two, you will need to break out the tasks for each member
+   * There is a higher bar or expected level of complexity for a pair project. 
  * A timeline for getting aspects of the project setup, working, developed, etc.
    * For team projects, you should set milestones for each member to complete along the way. Make sure to include time to test each component. 
  * Goals for the project
@@ -37,7 +38,8 @@ I will only be supporting development with the technologies discussed in class:
    * You should also include stretch goals or goals you have for the project if time allows or that you would like to add possibly after the semester. 
    * Should be a **list** of deliverables/goals
  * **Submitting Proposal:** 
-   * Please email me a **pdf** with the above details as different sections. 
+   * Please email me a **pdf** with the above details as different sections.
+     * You should have **CINS465 Proposal** as the subject for the email. 
    * You can submit your proposal up until the day before it is due and if I can get you feedback you will lose no points if you make the necessary revisions before the due date.
    * Having issues with your proposal after the due date will lose points. 
    
